@@ -1,0 +1,15 @@
+.content {
+    margin: 5vw;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+button,
+input {
+    padding: 0.3vw;
+    gap: 0.3vw;
+    margin: 0.3vw;
+}
